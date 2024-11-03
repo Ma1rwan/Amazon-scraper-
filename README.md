@@ -23,3 +23,7 @@ Before you begin, ensure you have the following installed:
    cd Amazon-scraper-
    pip install -r requirements.txt
    python main.py
+
+## Preview
+![Image 1](2024-11-03_19.48.16.461.png)
+![Image 2](2024-11-03_19.49.12.483.png)
