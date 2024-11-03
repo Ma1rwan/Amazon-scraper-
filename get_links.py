@@ -10,12 +10,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import numpy as np
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
-from selenium import webdriver
 from selenium.common.exceptions import WebDriverException
 from urllib.parse import urlparse, parse_qs, urlencode, urlunparse
-from logger import logger  # Importing the Logger class from logger.py
+from logger import logger
 logger = logger(identifier='AMZN')
 
 
